@@ -3,3 +3,5 @@
 ### Doc folder
 
 The doc directory contains the report or presentation files. It can have subfolders.  
+
+It contains html.file and ipynb. file which you can re-run the whole project mainly by codes shown here.
