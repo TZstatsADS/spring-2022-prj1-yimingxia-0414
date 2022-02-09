@@ -6,5 +6,5 @@ The output directory contains analysis output, processed datasets, logs, or othe
 
 Those results are coming from the main coding file, and might be used without re-run some of the cells since it might take too much time.
 
-To be noticed, the file 'philosophy_data_dominantTopic.csv' is not included in this folder since it is too large. If you would like to re-run the project, contact me for that!
+To be noticed, the file philosophy_data_new.csv' and  'philosophy_data_dominantTopic.csv'  are not included in this folder since they are too large. If you would like to re-run the project, contact me for those!
 
